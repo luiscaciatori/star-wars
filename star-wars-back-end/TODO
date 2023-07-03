@@ -1,0 +1,11 @@
+The API application should have:
+
+- Basic authentication:
+  - User and password authentication. ✅
+  - Password recovery.
+  - Passwords should be stored using encryption or hashing. ✅
+- All resources should have CRUD capabilities. ✅
+- Model relationships should be well defined. ✅
+- Database should be the default SQLite. ✅
+- Database should be populated with the seed file. ✅
+- Config files should be well set up. ✅
